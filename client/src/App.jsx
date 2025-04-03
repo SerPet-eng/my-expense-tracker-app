@@ -15,6 +15,8 @@ import NotFound from './components/handler/NotFound.jsx'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
 
+console.log("This is a test")
+
 export default function App() {
   return (
     <div>
